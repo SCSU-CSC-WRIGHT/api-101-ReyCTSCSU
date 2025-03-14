@@ -63,7 +63,7 @@ Update this README file directly with the corresponding command for each questio
 4. **Create a subdirectory `proj3` under the top-level directory and copy all contents of `proj1` to it:**
     cp -r proj1 proj3
 5. **Run `p1.py` Flask application in the background and keep it running after disconnecting from the terminal:**
-   nohup python p1.py > app.log 2>&1 &
+   nohup python p1.py &
 
 
 ---
